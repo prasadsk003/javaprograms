@@ -1,6 +1,4 @@
-package main;
-
-import javax.sound.midi.SysexMessage;
+package main.methods;
 
 public class Method {
 
